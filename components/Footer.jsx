@@ -27,7 +27,7 @@ const Footer = () => {
             <SiDiscord style={{ cursor: "pointer" }} />
           </a>
         </Link>
-        <Link href="https://www.facebook.com/R0baaa/">
+        <Link href="https://www.facebook.com/mohamedgadodev">
           <a target="_blank" rel="noopener noreferrer">
             <SiFacebook style={{ cursor: "pointer" }} />
           </a>
