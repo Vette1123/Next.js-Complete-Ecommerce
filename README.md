@@ -2,8 +2,8 @@
 
 > Storefront with a Sanity-managed catalog and Stripe Checkout, built on Next.js.
 
-![Next.js](https://img.shields.io/badge/Next.js-12-black?logo=next.js)
-![React](https://img.shields.io/badge/React-18-61dafb?logo=react&logoColor=000)
+![Next.js](https://img.shields.io/badge/Next.js-12.1.6-black?logo=next.js)
+![React](https://img.shields.io/badge/React-18.1-61dafb?logo=react&logoColor=000)
 ![Sanity](https://img.shields.io/badge/Sanity-CMS-f03e2f?logo=sanity&logoColor=fff)
 ![Stripe](https://img.shields.io/badge/Stripe-Checkout-635bff?logo=stripe&logoColor=fff)
 
@@ -20,8 +20,8 @@ A small ecommerce demo where products and hero/footer banners are managed in San
 - Toast notifications via `react-hot-toast` for cart actions
 
 ## 🛠️ Tech Stack
-- **Framework**: Next.js 12 + React 18 (Pages Router)
-- **CMS**: Sanity (`@sanity/client`, `@sanity/image-url`)
+- **Framework**: Next.js 12.1.6 + React 18.1.0 (Pages Router)
+- **CMS**: Sanity, Studio v2 (`@sanity/client`, `@sanity/image-url`)
 - **Payments**: Stripe Checkout (`stripe`, `@stripe/stripe-js`)
 - **State**: React Context (`context/StateContext.js`)
 - **Styling**: Plain CSS / CSS Modules
